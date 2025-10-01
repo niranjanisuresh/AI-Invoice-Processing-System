@@ -1,0 +1,39 @@
+
+FinAI Ledger
+============================================
+Report Generated: 2025-10-02 00:25:35
+
+EXECUTIVE SUMMARY:
+-----------------
+Total Invoices Processed: 150
+Invoices Flagged for Review: 23
+Automation Rate: 84.7%
+Total Amount Processed: $832,119.56
+Potential Savings: $20,918.60
+
+RISK ASSESSMENT:
+---------------
+High Risk Invoices: 4
+Medium Risk Invoices: 3
+Low Risk Invoices: 143
+
+ANOMALY BREAKDOWN:
+-----------------
+AMOUNT_ANOMALY: 23 occurrences
+EXTREME_AMOUNT: 2 occurrences
+POTENTIAL_DUPLICATE: 2 occurrences
+
+ANOMALY CATEGORIES:
+--------------------
+No Anomaly: 127 invoices
+Statistical Anomaly: 19 invoices
+Extreme Amount: 2 invoices
+Duplicate: 2 invoices
+
+TOP VENDORS ANALYSIS:
+---------------------
+Tech_Solutions_Inc: $150,927.10 (25 invoices, 0 high-risk)
+Genpact_Vendor_A: $145,412.65 (27 invoices, 0 high-risk)
+Office_Equipment_Co: $142,249.05 (23 invoices, 1 high-risk)
+IT_Services_Corp: $136,234.15 (27 invoices, 0 high-risk)
+Global_Supplies_Ltd: $136,068.54 (24 invoices, 3 high-risk)

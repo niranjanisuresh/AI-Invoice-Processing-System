@@ -1,101 +1,151 @@
-Invoice_ID,Vendor_Name,Total_Amount,Invoice_Date,Source_Type,Flags,Flag_Count,Requires_Review,Risk_Level
-DIG-5000,Global_Supplies_Ltd,8809.48,2025-09-09,Digital,[],0,False,Low
-DIG-5001,Global_Supplies_Ltd,6309.16,2025-07-21,Digital,[],0,False,Low
-DIG-5002,Genpact_Vendor_A,14815.84,2025-07-15,Digital,[],0,False,Low
-DIG-5003,Tech_Solutions_Inc,19430.39,2025-07-09,Digital,[],0,False,Low
-DIG-5004,Global_Supplies_Ltd,22994.92,2025-07-20,Digital,[],0,False,Low
-DIG-5005,IT_Services_Corp,6427.07,2025-08-16,Digital,[],0,False,Low
-DIG-5006,Office_Equipment_Co,1092.54,2025-07-23,Digital,['AMOUNT_ANOMALY'],1,True,Low
-DIG-5007,IT_Services_Corp,10260.84,2025-07-24,Digital,[],0,False,Low
-DIG-5008,Office_Equipment_Co,9867.41,2025-09-29,Digital,[],0,False,Low
-DIG-5009,Global_Supplies_Ltd,6317.22,2025-08-08,Digital,[],0,False,Low
-DIG-5010,Genpact_Vendor_A,12526.54,2025-07-08,Digital,[],0,False,Low
-DIG-5011,Tech_Solutions_Inc,16980.79,2025-07-16,Digital,[],0,False,Low
-DIG-5012,Office_Equipment_Co,8403.62,2025-07-08,Digital,[],0,False,Low
-DIG-5013,Office_Equipment_Co,10709.52,2025-08-17,Digital,[],0,False,Low
-DIG-5014,Genpact_Vendor_A,18877.03,2025-09-17,Digital,[],0,False,Low
-DIG-5015,Office_Equipment_Co,15458.11,2025-07-12,Digital,[],0,False,Low
-DIG-5016,Office_Equipment_Co,24168.77,2025-08-22,Digital,['AMOUNT_ANOMALY'],1,True,Medium
-DIG-5017,Global_Supplies_Ltd,2797.78,2025-08-02,Digital,[],0,False,Low
-DIG-5018,Office_Equipment_Co,5307.42,2025-09-28,Digital,[],0,False,Low
-DIG-5019,Tech_Solutions_Inc,1078.46,2025-07-21,Digital,['AMOUNT_ANOMALY'],1,True,Low
-DIG-5020,Office_Equipment_Co,15646.34,2025-07-10,Digital,[],0,False,Low
-DIG-5021,Tech_Solutions_Inc,13406.85,2025-08-13,Digital,[],0,False,Low
-DIG-5022,Tech_Solutions_Inc,11042.73,2025-08-11,Digital,[],0,False,Low
-DIG-5023,IT_Services_Corp,10815.07,2025-09-26,Digital,[],0,False,Low
-DIG-5024,Office_Equipment_Co,21982.77,2025-07-15,Digital,['AMOUNT_ANOMALY'],1,True,Medium
-DIG-5025,IT_Services_Corp,19792.14,2025-08-10,Digital,[],0,False,Low
-DIG-5026,Global_Supplies_Ltd,7046.4,2025-09-23,Digital,[],0,False,Low
-DIG-5027,Office_Equipment_Co,10454.67,2025-07-23,Digital,[],0,False,Low
-DIG-5028,Tech_Solutions_Inc,3525.31,2025-09-11,Digital,['AMOUNT_ANOMALY'],1,True,Low
-DIG-5029,Genpact_Vendor_A,15073.01,2025-08-30,Digital,[],0,False,Low
-DIG-5030,Global_Supplies_Ltd,14841.69,2025-08-17,Digital,[],0,False,Low
-DIG-5031,Office_Equipment_Co,21044.66,2025-09-08,Digital,['AMOUNT_ANOMALY'],1,True,Medium
-DIG-5032,Global_Supplies_Ltd,17522.18,2025-09-13,Digital,[],0,False,Low
-DIG-5033,Global_Supplies_Ltd,5488.14,2025-09-15,Digital,[],0,False,Low
-DIG-5034,Office_Equipment_Co,14069.9,2025-08-18,Digital,[],0,False,Low
-DIG-5035,Tech_Solutions_Inc,17785.76,2025-07-13,Digital,[],0,False,Low
-DIG-5036,Global_Supplies_Ltd,9361.93,2025-07-29,Digital,[],0,False,Low
-DIG-5037,Office_Equipment_Co,23184.8,2025-09-29,Digital,[],0,False,Low
-DIG-5038,Tech_Solutions_Inc,20259.89,2025-08-26,Digital,[],0,False,Low
-DIG-5039,Tech_Solutions_Inc,4565.08,2025-07-21,Digital,[],0,False,Low
-DIG-5040,Global_Supplies_Ltd,23351.79,2025-07-24,Digital,['AMOUNT_ANOMALY'],1,True,Medium
-DIG-5041,Tech_Solutions_Inc,15333.95,2025-07-24,Digital,[],0,False,Low
-DIG-5042,IT_Services_Corp,4463.26,2025-07-04,Digital,[],0,False,Low
-DIG-5043,Genpact_Vendor_A,9628.52,2025-09-15,Digital,[],0,False,Low
-DIG-5044,Office_Equipment_Co,889.78,2025-08-08,Digital,['AMOUNT_ANOMALY'],1,True,Low
-DIG-5045,Global_Supplies_Ltd,15248.51,2025-09-30,Digital,[],0,False,Low
-DIG-5046,Office_Equipment_Co,19930.67,2025-09-29,Digital,[],0,False,Low
-DIG-5047,Office_Equipment_Co,19270.38,2025-08-06,Digital,[],0,False,Low
-DIG-5048,Genpact_Vendor_A,15435.02,2025-08-10,Digital,[],0,False,Low
-DIG-5049,Global_Supplies_Ltd,7189.5,2025-08-10,Digital,[],0,False,Low
-DIG-5050,Office_Equipment_Co,2727.57,2025-09-17,Digital,['AMOUNT_ANOMALY'],1,True,Low
-DIG-5051,IT_Services_Corp,3785.95,2025-09-18,Digital,[],0,False,Low
-DIG-5052,IT_Services_Corp,11113.81,2025-07-09,Digital,[],0,False,Low
-DIG-5053,Genpact_Vendor_A,23077.85,2025-09-15,Digital,[],0,False,Low
-DIG-5054,IT_Services_Corp,10017.19,2025-07-06,Digital,[],0,False,Low
-DIG-5055,IT_Services_Corp,16091.96,2025-09-11,Digital,[],0,False,Low
-DIG-5056,Tech_Solutions_Inc,10071.23,2025-08-13,Digital,[],0,False,Low
-DIG-5057,Tech_Solutions_Inc,23003.3,2025-07-26,Digital,[],0,False,Low
-DIG-5058,Genpact_Vendor_A,18939.71,2025-08-17,Digital,[],0,False,Low
-DIG-5059,Office_Equipment_Co,12677.31,2025-09-08,Digital,[],0,False,Low
-DIG-5060,Tech_Solutions_Inc,13990.24,2025-08-15,Digital,[],0,False,Low
-DIG-5061,Global_Supplies_Ltd,22804.13,2025-07-30,Digital,[],0,False,Low
-DIG-5062,Tech_Solutions_Inc,15447.94,2025-08-31,Digital,[],0,False,Low
-DIG-5063,Office_Equipment_Co,22889.84,2025-07-19,Digital,[],0,False,Low
-DIG-5064,Genpact_Vendor_A,17649.18,2025-07-26,Digital,[],0,False,Low
-DIG-5065,Tech_Solutions_Inc,23968.55,2025-07-18,Digital,['AMOUNT_ANOMALY'],1,True,Medium
-DIG-5066,Global_Supplies_Ltd,24550.44,2025-07-10,Digital,['AMOUNT_ANOMALY'],1,True,Medium
-DIG-5067,Office_Equipment_Co,11868.0,2025-09-24,Digital,[],0,False,Low
-DIG-5068,Tech_Solutions_Inc,14339.68,2025-08-19,Digital,[],0,False,Low
-DIG-5069,Genpact_Vendor_A,10108.49,2025-08-22,Digital,[],0,False,Low
-DIG-5070,Tech_Solutions_Inc,3095.34,2025-08-28,Digital,[],0,False,Low
-DIG-5071,Tech_Solutions_Inc,13442.1,2025-07-23,Digital,[],0,False,Low
-DIG-5072,Office_Equipment_Co,5159.99,2025-09-29,Digital,[],0,False,Low
-DIG-5073,IT_Services_Corp,2175.6,2025-09-04,Digital,['AMOUNT_ANOMALY'],1,True,Low
-DIG-5074,Tech_Solutions_Inc,20111.75,2025-08-03,Digital,[],0,False,Low
-DIG-5075,Office_Equipment_Co,14733.06,2025-07-08,Digital,[],0,False,Low
-DIG-5076,Global_Supplies_Ltd,9679.27,2025-08-26,Digital,[],0,False,Low
-DIG-5077,Tech_Solutions_Inc,19599.97,2025-07-14,Digital,[],0,False,Low
-DIG-5078,Office_Equipment_Co,6677.37,2025-07-08,Digital,[],0,False,Low
-DIG-5079,Global_Supplies_Ltd,16999.87,2025-08-04,Digital,[],0,False,Low
-DIG-5080,Genpact_Vendor_A,13712.7,2025-09-27,Digital,[],0,False,Low
-DIG-5081,Office_Equipment_Co,10630.91,2025-09-20,Digital,[],0,False,Low
-DIG-5082,IT_Services_Corp,605.49,2025-07-31,Digital,['AMOUNT_ANOMALY'],1,True,Low
-DIG-5083,Tech_Solutions_Inc,3038.11,2025-09-03,Digital,[],0,False,Low
-DIG-5084,IT_Services_Corp,6648.44,2025-09-26,Digital,[],0,False,Low
-DIG-5085,Office_Equipment_Co,8394.45,2025-07-21,Digital,[],0,False,Low
-DIG-5086,Genpact_Vendor_A,24169.84,2025-07-06,Digital,['AMOUNT_ANOMALY'],1,True,Medium
-DIG-5087,IT_Services_Corp,15295.07,2025-08-08,Digital,[],0,False,Low
-DIG-5088,Global_Supplies_Ltd,23793.99,2025-07-04,Digital,['AMOUNT_ANOMALY'],1,True,Medium
-DIG-5089,Office_Equipment_Co,17721.44,2025-08-02,Digital,[],0,False,Low
-DIG-5090,Genpact_Vendor_A,6324.9,2025-07-09,Digital,[],0,False,Low
-DIG-5091,Tech_Solutions_Inc,7104.52,2025-07-26,Digital,[],0,False,Low
-DIG-5092,Global_Supplies_Ltd,10758.44,2025-07-19,Digital,[],0,False,Low
-DIG-5093,Genpact_Vendor_A,9331.62,2025-08-28,Digital,[],0,False,Low
-DIG-5094,Tech_Solutions_Inc,13567.1,2025-09-21,Digital,[],0,False,Low
-DIG-5095,Genpact_Vendor_A,20275.39,2025-07-24,Digital,[],0,False,Low
-DIG-5096,Tech_Solutions_Inc,4234.18,2025-08-15,Digital,[],0,False,Low
-DIG-5097,Genpact_Vendor_A,9217.86,2025-07-18,Digital,[],0,False,Low
-DIG-5098,IT_Services_Corp,20677.87,2025-08-25,Digital,[],0,False,Low
-DIG-5099,Tech_Solutions_Inc,10679.21,2025-08-25,Digital,[],0,False,Low
+Invoice_ID,Vendor_Name,Total_Amount,Invoice_Date,Source_Type,Department,Flags,Flag_Count,Requires_Review,Risk_Level,Anomaly_Type
+DIG-5000,Office_Equipment_Co,3360.42,2025-06-09,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5001,Consulting_Partners_LLC,9416.29,2025-06-06,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5002,Genpact_Vendor_A,4722.55,2025-08-29,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5003,IT_Services_Corp,9370.75,2025-08-05,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5004,IT_Services_Corp,10093.46,2025-06-12,Digital,IT,['AMOUNT_ANOMALY'],1,True,Medium,Statistical Anomaly
+DIG-5005,IT_Services_Corp,3084.88,2025-08-09,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5006,Office_Equipment_Co,4267.9,2025-07-29,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5007,Tech_Solutions_Inc,4395.6,2025-06-22,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5008,IT_Services_Corp,2731.03,2025-07-03,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5009,Office_Equipment_Co,5228.08,2025-06-22,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5010,Office_Equipment_Co,75000.0,2025-06-09,Digital,Operations,"['AMOUNT_ANOMALY', 'EXTREME_AMOUNT']",2,True,High,Extreme Amount
+DIG-5011,Global_Supplies_Ltd,4621.48,2025-08-29,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5012,Office_Equipment_Co,4352.01,2025-06-17,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5013,Office_Equipment_Co,2136.18,2025-06-26,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5014,Consulting_Partners_LLC,7697.52,2025-07-06,Digital,Operations,[],0,False,Low,No Anomaly
+DUP-5000,Global_Supplies_Ltd,12500.0,2025-07-03,Digital,Finance,"['POTENTIAL_DUPLICATE', 'AMOUNT_ANOMALY']",2,True,High,Duplicate
+DUP-5000,Global_Supplies_Ltd,12500.0,2025-07-15,Digital,Operations,"['POTENTIAL_DUPLICATE', 'AMOUNT_ANOMALY']",2,True,High,Duplicate
+DIG-5017,Global_Supplies_Ltd,3078.61,2025-08-31,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5018,Tech_Solutions_Inc,8904.01,2025-07-17,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5019,IT_Services_Corp,8179.83,2025-06-27,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5020,Office_Equipment_Co,338.85,2025-08-03,Digital,IT,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5021,IT_Services_Corp,8650.56,2025-08-21,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5022,IT_Services_Corp,2716.32,2025-08-07,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5023,Global_Supplies_Ltd,8079.16,2025-08-28,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5024,Consulting_Partners_LLC,2766.55,2025-09-01,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5025,Global_Supplies_Ltd,5.0,2025-06-07,Digital,HR,"['AMOUNT_ANOMALY', 'EXTREME_AMOUNT']",2,True,High,Extreme Amount
+DIG-5026,Genpact_Vendor_A,2741.1,2025-08-11,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5027,Office_Equipment_Co,3224.4,2025-08-20,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5028,Office_Equipment_Co,3208.79,2025-08-29,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5029,Genpact_Vendor_A,9070.48,2025-07-02,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5030,Genpact_Vendor_A,1729.08,2025-08-08,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5031,Genpact_Vendor_A,2370.42,2025-07-14,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5032,Office_Equipment_Co,3078.24,2025-07-13,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5033,IT_Services_Corp,6838.97,2025-07-01,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5034,Office_Equipment_Co,1716.85,2025-08-04,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5035,Genpact_Vendor_A,3767.49,2025-06-24,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5036,IT_Services_Corp,2046.58,2025-07-14,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5037,Tech_Solutions_Inc,1978.45,2025-07-15,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5038,Global_Supplies_Ltd,8765.25,2025-07-05,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5039,IT_Services_Corp,6656.47,2025-08-16,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5040,Global_Supplies_Ltd,1336.28,2025-08-03,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5041,Tech_Solutions_Inc,6344.66,2025-08-03,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5042,Consulting_Partners_LLC,2580.02,2025-07-23,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5043,Consulting_Partners_LLC,2192.68,2025-08-04,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5044,Genpact_Vendor_A,6154.96,2025-06-11,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5045,Office_Equipment_Co,3362.67,2025-07-06,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5046,Consulting_Partners_LLC,7312.36,2025-06-09,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5047,Global_Supplies_Ltd,1535.8,2025-07-30,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5048,IT_Services_Corp,960.71,2025-06-08,Digital,Finance,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5049,Consulting_Partners_LLC,2710.4,2025-07-14,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5050,Global_Supplies_Ltd,3958.25,2025-08-29,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5051,IT_Services_Corp,5961.91,2025-07-28,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5052,Tech_Solutions_Inc,1683.84,2025-07-29,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5053,Global_Supplies_Ltd,8468.52,2025-08-07,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5054,Global_Supplies_Ltd,8864.83,2025-06-15,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5055,Office_Equipment_Co,4287.81,2025-08-04,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5056,Tech_Solutions_Inc,14939.04,2025-09-01,Digital,HR,['AMOUNT_ANOMALY'],1,True,Medium,Statistical Anomaly
+DIG-5057,Tech_Solutions_Inc,4677.94,2025-06-14,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5058,Global_Supplies_Ltd,7545.07,2025-06-21,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5059,Tech_Solutions_Inc,7924.92,2025-06-24,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5060,Tech_Solutions_Inc,9994.02,2025-08-07,Digital,Marketing,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5061,Tech_Solutions_Inc,9939.16,2025-06-11,Digital,Operations,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5062,Genpact_Vendor_A,277.36,2025-07-10,Digital,HR,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5063,Office_Equipment_Co,4615.81,2025-08-10,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5064,Global_Supplies_Ltd,1039.37,2025-09-02,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5065,Tech_Solutions_Inc,8123.99,2025-08-13,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5066,Genpact_Vendor_A,8346.9,2025-08-08,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5067,Consulting_Partners_LLC,8774.99,2025-06-26,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5068,Global_Supplies_Ltd,6788.32,2025-06-13,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5069,IT_Services_Corp,2920.9,2025-06-28,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5070,IT_Services_Corp,9701.68,2025-07-02,Digital,Operations,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5071,IT_Services_Corp,4389.21,2025-06-06,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5072,IT_Services_Corp,4484.65,2025-08-02,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5073,Genpact_Vendor_A,5522.71,2025-07-18,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5074,Office_Equipment_Co,4286.54,2025-08-21,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5075,Office_Equipment_Co,2315.42,2025-07-10,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5076,Tech_Solutions_Inc,14279.18,2025-07-28,Digital,IT,['AMOUNT_ANOMALY'],1,True,Medium,Statistical Anomaly
+DIG-5077,Global_Supplies_Ltd,8019.5,2025-06-20,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5078,Consulting_Partners_LLC,8377.26,2025-06-20,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5079,Consulting_Partners_LLC,5816.6,2025-07-23,Digital,Finance,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5080,Tech_Solutions_Inc,8332.93,2025-08-17,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5081,Global_Supplies_Ltd,3541.37,2025-06-08,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5082,Genpact_Vendor_A,8044.19,2025-07-20,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5083,Consulting_Partners_LLC,6933.68,2025-07-19,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5084,Consulting_Partners_LLC,1491.18,2025-06-26,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5085,Genpact_Vendor_A,3352.08,2025-07-09,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5086,Genpact_Vendor_A,1335.69,2025-06-21,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5087,IT_Services_Corp,3610.07,2025-08-04,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5088,Consulting_Partners_LLC,1047.5,2025-08-19,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5089,Global_Supplies_Ltd,9539.42,2025-06-28,Digital,Marketing,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5090,Global_Supplies_Ltd,5301.79,2025-06-30,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5091,Office_Equipment_Co,705.85,2025-06-13,Digital,Finance,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5092,Consulting_Partners_LLC,2644.18,2025-08-04,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5093,Tech_Solutions_Inc,1197.63,2025-08-18,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5094,Genpact_Vendor_A,5371.99,2025-07-06,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5095,Genpact_Vendor_A,8587.28,2025-06-13,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5096,Office_Equipment_Co,2892.52,2025-08-18,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5097,Tech_Solutions_Inc,4776.79,2025-08-12,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5098,Consulting_Partners_LLC,9815.05,2025-07-25,Digital,HR,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5099,Genpact_Vendor_A,9406.22,2025-09-02,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5100,Genpact_Vendor_A,5282.65,2025-08-09,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5101,Office_Equipment_Co,1266.13,2025-08-10,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5102,Tech_Solutions_Inc,7011.43,2025-08-23,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5103,Genpact_Vendor_A,6125.6,2025-08-06,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5104,Global_Supplies_Ltd,7876.59,2025-08-27,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5105,Genpact_Vendor_A,2361.07,2025-08-01,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5106,IT_Services_Corp,1730.93,2025-06-20,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5107,Genpact_Vendor_A,7255.27,2025-08-01,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5108,Global_Supplies_Ltd,1819.2,2025-07-18,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5109,Tech_Solutions_Inc,1301.23,2025-07-13,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5110,Consulting_Partners_LLC,5346.7,2025-08-24,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5111,Global_Supplies_Ltd,872.3,2025-06-09,Digital,Marketing,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5112,Consulting_Partners_LLC,8850.75,2025-07-03,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5113,Genpact_Vendor_A,5890.42,2025-08-19,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5114,Genpact_Vendor_A,2455.36,2025-08-01,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5115,Consulting_Partners_LLC,9069.88,2025-07-19,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5116,Tech_Solutions_Inc,3361.32,2025-06-28,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5117,Global_Supplies_Ltd,1389.85,2025-07-27,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5118,IT_Services_Corp,6510.52,2025-06-23,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5119,Tech_Solutions_Inc,1814.27,2025-07-17,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5120,IT_Services_Corp,7473.85,2025-07-07,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5121,Tech_Solutions_Inc,5146.11,2025-08-20,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5122,Genpact_Vendor_A,283.88,2025-06-16,Digital,HR,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5123,Office_Equipment_Co,3660.12,2025-07-18,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5124,Office_Equipment_Co,4639.3,2025-07-15,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5125,Consulting_Partners_LLC,8411.19,2025-07-22,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5126,Genpact_Vendor_A,9143.39,2025-08-27,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5127,Tech_Solutions_Inc,2658.92,2025-06-27,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5128,IT_Services_Corp,9694.53,2025-06-25,Digital,Operations,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5129,Tech_Solutions_Inc,4163.01,2025-08-11,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5130,IT_Services_Corp,662.56,2025-08-05,Digital,Finance,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5131,Consulting_Partners_LLC,2341.03,2025-08-12,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5132,Genpact_Vendor_A,8710.68,2025-06-09,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5133,Office_Equipment_Co,3048.19,2025-07-24,Digital,HR,[],0,False,Low,No Anomaly
+DIG-5134,Genpact_Vendor_A,9337.38,2025-07-30,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5135,IT_Services_Corp,2725.09,2025-07-24,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5136,Tech_Solutions_Inc,5270.24,2025-08-25,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5137,IT_Services_Corp,5264.24,2025-06-04,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5138,IT_Services_Corp,6360.19,2025-07-28,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5139,Office_Equipment_Co,1256.97,2025-09-01,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5140,IT_Services_Corp,2664.03,2025-08-17,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5141,Consulting_Partners_LLC,1936.42,2025-06-14,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5142,Tech_Solutions_Inc,8931.08,2025-08-12,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5143,Consulting_Partners_LLC,517.14,2025-08-21,Digital,IT,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5144,IT_Services_Corp,750.23,2025-06-21,Digital,Operations,['AMOUNT_ANOMALY'],1,True,Low,Statistical Anomaly
+DIG-5145,Genpact_Vendor_A,7766.45,2025-07-23,Digital,Marketing,[],0,False,Low,No Anomaly
+DIG-5146,Global_Supplies_Ltd,8622.58,2025-07-07,Digital,Finance,[],0,False,Low,No Anomaly
+DIG-5147,Tech_Solutions_Inc,3777.33,2025-08-27,Digital,Operations,[],0,False,Low,No Anomaly
+DIG-5148,Consulting_Partners_LLC,1244.65,2025-06-24,Digital,IT,[],0,False,Low,No Anomaly
+DIG-5149,Consulting_Partners_LLC,3934.05,2025-07-21,Digital,HR,[],0,False,Low,No Anomaly
