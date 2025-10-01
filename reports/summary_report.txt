@@ -1,0 +1,29 @@
+
+GENPACT INTELLIGENT INVOICE PROCESSING SYSTEM
+============================================
+Report Generated: 2025-10-01 23:43:35
+
+EXECUTIVE SUMMARY:
+-----------------
+Total Invoices Processed: 100
+Invoices Flagged for Review: 15
+Automation Rate: 85.0%
+Total Amount Processed: $1,287,261.83
+
+RISK ASSESSMENT:
+---------------
+High Risk Invoices: 0
+Medium Risk Invoices: 8
+Low Risk Invoices: 92
+
+ANOMALY BREAKDOWN:
+-----------------
+AMOUNT_ANOMALY: 15 occurrences
+
+TOP VENDORS BY VOLUME:
+----------------------
+Office_Equipment_Co: $334,961.30 (26 invoices)
+Tech_Solutions_Inc: $319,102.43 (25 invoices)
+Global_Supplies_Ltd: $255,864.84 (19 invoices)
+Genpact_Vendor_A: $239,163.50 (16 invoices)
+IT_Services_Corp: $138,169.76 (14 invoices)
