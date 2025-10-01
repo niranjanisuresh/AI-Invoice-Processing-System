@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 def main():
-    st.title("🏢 AI-Invoice Processing System")
+    st.title("🏢 FIN AI LEDGER")
     st.write("Automated Invoice Processing with Anomaly Detection")
 
     uploaded_file = st.file_uploader("Upload Invoice Data", type=['csv', 'xlsx'])
