@@ -1,0 +1,148 @@
+id,invoice_id,vendor_name,invoice_date,due_date,total_amount,tax_amount,item_description,payment_terms,department,source_type,status,created_at,processed_at,risk_level,anomaly_type
+273,DIG-5122,Tech_Solutions_Inc,2025-10-01,2025-10-26,7363.71,736.37,Professional Services 41,Net 39,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.966961,Low,No Anomaly
+207,DIG-5056,Office_Equipment_Co,2025-10-01,2025-10-19,2416.0,241.6,Professional Services 78,Net 33,Marketing,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.971893,Low,No Anomaly
+212,DIG-5061,Tech_Solutions_Inc,2025-09-30,2025-10-19,12895.14,1289.51,Professional Services 56,Net 30,Operations,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.050805,Medium,Statistical Anomaly
+248,DIG-5097,Consulting_Partners_LLC,2025-09-30,2025-10-26,8432.09,843.21,Professional Services 20,Net 35,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.675848,Low,No Anomaly
+204,DIG-5053,Consulting_Partners_LLC,2025-09-30,2025-10-31,4219.56,421.96,Professional Services 52,Net 33,HR,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.946043,Low,No Anomaly
+258,DIG-5107,Consulting_Partners_LLC,2025-09-26,2025-10-23,7733.82,773.38,Professional Services 33,Net 32,Marketing,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.804366,Low,No Anomaly
+267,DIG-5116,IT_Services_Corp,2025-09-26,2025-10-24,1240.04,124.0,Professional Services 50,Net 20,HR,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.905275,Low,No Anomaly
+274,DIG-5123,Office_Equipment_Co,2025-09-25,2025-10-17,3399.59,339.96,Professional Services 46,Net 21,Marketing,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.983295,Low,No Anomaly
+221,DIG-5070,Consulting_Partners_LLC,2025-09-25,2025-10-14,4284.99,428.5,Professional Services 47,Net 31,HR,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.180697,Low,No Anomaly
+259,DIG-5108,Office_Equipment_Co,2025-09-23,2025-10-14,3436.37,343.64,Professional Services 91,Net 17,HR,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.814461,Low,No Anomaly
+157,DIG-5006,Consulting_Partners_LLC,2025-09-22,2025-10-04,9363.57,936.36,Professional Services 3,Net 39,HR,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.185024,Low,Duplicate
+297,DIG-5146,Global_Supplies_Ltd,2025-09-22,2025-10-08,6111.01,611.1,Professional Services 41,Net 34,Marketing,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.279149,Low,No Anomaly
+253,DIG-5102,IT_Services_Corp,2025-09-22,2025-10-30,5200.06,520.01,Professional Services 67,Net 18,Marketing,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.740914,Low,No Anomaly
+214,DIG-5063,IT_Services_Corp,2025-09-21,2025-11-02,7838.65,783.87,Professional Services 38,Net 34,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.076525,Low,No Anomaly
+201,DIG-5050,Tech_Solutions_Inc,2025-09-21,2025-10-24,6976.36,697.64,Professional Services 64,Net 45,Marketing,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.906479,Low,No Anomaly
+249,DIG-5098,Consulting_Partners_LLC,2025-09-20,2025-11-01,4939.2,493.92,Professional Services 71,Net 28,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.691163,Low,No Anomaly
+184,DIG-5033,Office_Equipment_Co,2025-09-20,2025-10-16,4349.82,434.98,Professional Services 68,Net 26,IT,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.676419,Low,No Anomaly
+277,DIG-5126,Global_Supplies_Ltd,2025-09-19,2025-10-05,5587.97,558.8,Professional Services 79,Net 32,Operations,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.025790,Low,No Anomaly
+167,DUP-5000,Global_Supplies_Ltd,2025-09-19,2025-10-31,12500.0,1250.0,Professional Services 96,Net 31,IT,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.439555,High,Duplicate
+164,DIG-5013,Consulting_Partners_LLC,2025-09-18,2025-10-26,9313.9,931.39,Professional Services 94,Net 26,Marketing,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.374462,Low,Duplicate
+173,DIG-5022,Tech_Solutions_Inc,2025-09-18,2025-10-23,8707.69,870.77,Professional Services 43,Net 21,Marketing,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.509060,Low,No Anomaly
+213,DIG-5062,Office_Equipment_Co,2025-09-18,2025-09-29,3784.06,378.41,Professional Services 49,Net 37,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.058883,Low,No Anomaly
+172,DIG-5021,Tech_Solutions_Inc,2025-09-18,2025-10-15,2814.62,281.46,Professional Services 100,Net 18,IT,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.505530,Low,No Anomaly
+242,DIG-5091,Consulting_Partners_LLC,2025-09-17,2025-10-27,9792.1,979.21,Professional Services 96,Net 26,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.543296,Low,No Anomaly
+168,DIG-5017,Genpact_Vendor_A,2025-09-16,2025-09-27,2141.08,214.11,Professional Services 4,Net 34,HR,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.460472,Low,No Anomaly
+295,DIG-5144,Consulting_Partners_LLC,2025-09-14,2025-10-12,7008.66,700.87,Professional Services 86,Net 16,Operations,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.249917,Medium,Duplicate
+284,DIG-5133,Genpact_Vendor_A,2025-09-14,2025-09-24,10210.53,1021.05,Professional Services 24,Net 22,Finance,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.097970,Medium,No Anomaly
+159,DIG-5008,Tech_Solutions_Inc,2025-09-14,2025-10-08,10399.01,1039.9,Professional Services 20,Net 31,HR,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.246618,Medium,No Anomaly
+229,DIG-5078,Tech_Solutions_Inc,2025-09-14,2025-10-10,13513.55,1351.36,Professional Services 45,Net 44,Marketing,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.306284,High,Statistical Anomaly
+226,DIG-5075,Consulting_Partners_LLC,2025-09-13,2025-10-14,8970.73,897.07,Professional Services 92,Net 33,HR,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.258709,Low,No Anomaly
+240,DIG-5089,Office_Equipment_Co,2025-09-13,2025-09-23,706.86,70.69,Professional Services 73,Net 26,Operations,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.498289,Low,No Anomaly
+192,DIG-5041,Consulting_Partners_LLC,2025-09-12,2025-09-28,7904.09,790.41,Professional Services 33,Net 44,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.777274,Low,No Anomaly
+163,DIG-5012,Consulting_Partners_LLC,2025-09-12,2025-09-30,5149.83,514.98,Professional Services 48,Net 24,Marketing,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.359144,Low,No Anomaly
+210,DIG-5059,Tech_Solutions_Inc,2025-09-10,2025-09-28,11187.99,1118.8,Professional Services 16,Net 41,Finance,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.018467,Low,No Anomaly
+272,DIG-5121,IT_Services_Corp,2025-09-10,2025-09-30,9499.21,949.92,Professional Services 74,Net 17,HR,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.958943,Low,No Anomaly
+279,DIG-5128,Tech_Solutions_Inc,2025-09-09,2025-10-21,1022.78,102.28,Professional Services 52,Net 36,Operations,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.045739,Low,No Anomaly
+165,DIG-5014,Tech_Solutions_Inc,2025-09-09,2025-09-25,10794.6,1079.46,Professional Services 38,Net 25,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.392955,Medium,Statistical Anomaly
+182,DIG-5031,Tech_Solutions_Inc,2025-09-09,2025-10-09,14242.21,1424.22,Professional Services 41,Net 20,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.648496,Medium,Statistical Anomaly
+288,DIG-5137,Consulting_Partners_LLC,2025-09-08,2025-10-08,6974.05,697.41,Professional Services 77,Net 16,Marketing,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.153257,Low,Duplicate
+271,DIG-5120,IT_Services_Corp,2025-09-08,2025-09-22,8204.51,820.45,Professional Services 42,Net 21,HR,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.950716,Low,No Anomaly
+156,DIG-5005,Genpact_Vendor_A,2025-09-07,2025-10-22,8280.43,828.04,Professional Services 34,Net 31,Marketing,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.159213,Low,No Anomaly
+232,DIG-5081,Genpact_Vendor_A,2025-09-07,2025-09-18,5241.86,524.19,Professional Services 10,Net 41,Finance,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.369564,Low,No Anomaly
+186,DIG-5035,Genpact_Vendor_A,2025-09-06,2025-10-07,7429.66,742.97,Professional Services 14,Net 39,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.704529,Low,No Anomaly
+151,DIG-5000,Office_Equipment_Co,2025-09-06,2025-10-15,3412.22,341.22,Professional Services 91,Net 19,IT,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.003615,Low,No Anomaly
+220,DIG-5069,Global_Supplies_Ltd,2025-09-06,2025-10-06,9517.14,951.71,Professional Services 97,Net 23,Marketing,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.165385,Low,No Anomaly
+251,DIG-5100,Genpact_Vendor_A,2025-09-06,2025-09-25,10014.65,1001.47,Professional Services 27,Net 37,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.707113,Medium,No Anomaly
+282,DIG-5131,Global_Supplies_Ltd,2025-09-04,2025-09-26,7706.45,770.64,Professional Services 73,Net 26,Operations,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.082994,Low,No Anomaly
+187,DIG-5036,Consulting_Partners_LLC,2025-09-04,2025-10-08,4126.63,412.66,Professional Services 3,Net 43,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.717468,Low,No Anomaly
+177,DIG-5026,Office_Equipment_Co,2025-09-03,2025-09-29,1898.0,189.8,Professional Services 8,Net 15,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.572430,Low,No Anomaly
+300,DIG-5149,Global_Supplies_Ltd,2025-09-02,2025-09-25,9835.89,983.59,Professional Services 55,Net 25,Marketing,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.320996,Low,No Anomaly
+154,DIG-5003,Global_Supplies_Ltd,2025-09-02,2025-09-20,6075.91,607.59,Professional Services 7,Net 37,IT,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.112424,Low,No Anomaly
+265,DIG-5114,Global_Supplies_Ltd,2025-09-01,2025-10-12,9396.89,939.69,Professional Services 6,Net 32,Operations,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.884105,Low,No Anomaly
+199,DIG-5048,Global_Supplies_Ltd,2025-09-01,2025-10-10,9170.03,917.0,Professional Services 58,Net 28,HR,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.881903,Low,No Anomaly
+195,DIG-5044,Global_Supplies_Ltd,2025-09-01,2025-09-16,1837.88,183.79,Professional Services 43,Net 32,Operations,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.816464,Low,No Anomaly
+237,DIG-5086,Office_Equipment_Co,2025-08-31,2025-10-05,518.44,51.84,Professional Services 42,Net 38,Marketing,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.451390,Medium,Statistical Anomaly
+153,DIG-5002,Consulting_Partners_LLC,2025-08-31,2025-10-04,4875.65,487.56,Professional Services 84,Net 31,Marketing,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.091056,Low,No Anomaly
+215,DIG-5064,Consulting_Partners_LLC,2025-08-30,2025-10-11,8050.48,805.05,Professional Services 72,Net 25,Operations,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.090404,Low,No Anomaly
+286,DIG-5135,IT_Services_Corp,2025-08-29,2025-09-13,6315.58,631.56,Professional Services 86,Net 42,Operations,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.121820,Low,No Anomaly
+278,DIG-5127,Global_Supplies_Ltd,2025-08-29,2025-09-19,5758.42,575.84,Professional Services 1,Net 25,Operations,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.034459,Low,No Anomaly
+252,DIG-5101,Office_Equipment_Co,2025-08-29,2025-09-12,3267.35,326.74,Professional Services 71,Net 26,Finance,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.723130,Low,No Anomaly
+276,DIG-5125,Tech_Solutions_Inc,2025-08-27,2025-09-25,11797.23,1179.72,Professional Services 95,Net 39,Operations,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.007620,Medium,Statistical Anomaly
+203,DIG-5052,Genpact_Vendor_A,2025-08-27,2025-10-11,5624.25,562.43,Professional Services 88,Net 35,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.938213,Low,No Anomaly
+227,DIG-5076,Global_Supplies_Ltd,2025-08-26,2025-09-07,6729.16,672.92,Professional Services 8,Net 36,Finance,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.275925,Low,Duplicate
+275,DIG-5124,IT_Services_Corp,2025-08-23,2025-10-06,2283.0,228.3,Professional Services 32,Net 20,HR,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.991419,Low,No Anomaly
+266,DIG-5115,IT_Services_Corp,2025-08-22,2025-09-01,6163.92,616.39,Professional Services 98,Net 31,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.886690,Low,No Anomaly
+190,DIG-5039,Consulting_Partners_LLC,2025-08-21,2025-09-26,4651.9,465.19,Professional Services 86,Net 23,Marketing,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.750436,Low,No Anomaly
+152,DIG-5001,Global_Supplies_Ltd,2025-08-20,2025-09-14,6729.32,672.93,Professional Services 25,Net 37,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.059211,Low,Duplicate
+193,DIG-5042,Tech_Solutions_Inc,2025-08-19,2025-09-05,12378.34,1237.83,Professional Services 37,Net 19,Operations,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.782983,Medium,Statistical Anomaly
+270,DIG-5119,Consulting_Partners_LLC,2025-08-19,2025-10-02,3652.08,365.21,Professional Services 48,Net 20,HR,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.934178,Low,No Anomaly
+161,DIG-5009,Tech_Solutions_Inc,2025-08-18,2025-09-24,75000.0,7500.0,Professional Services 75,Net 34,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.298370,High,Duplicate
+209,DIG-5058,Tech_Solutions_Inc,2025-08-18,2025-09-14,8427.54,842.75,Professional Services 32,Net 18,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.010157,Low,No Anomaly
+287,DIG-5136,Global_Supplies_Ltd,2025-08-17,2025-08-31,3456.21,345.62,Professional Services 7,Net 44,Finance,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.137444,Low,No Anomaly
+231,DIG-5080,IT_Services_Corp,2025-08-15,2025-09-11,9664.47,966.45,Professional Services 30,Net 15,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.355313,Low,No Anomaly
+268,DIG-5117,Global_Supplies_Ltd,2025-08-14,2025-09-11,6398.44,639.84,Professional Services 21,Net 42,HR,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.905275,Low,No Anomaly
+179,DIG-5028,IT_Services_Corp,2025-08-12,2025-08-22,8219.91,821.99,Professional Services 79,Net 30,IT,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.604854,Low,Duplicate
+176,DIG-5024,Office_Equipment_Co,2025-08-12,2025-09-06,5.0,0.5,Professional Services 95,Net 26,IT,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.545274,Medium,Extreme Amount
+285,DIG-5134,Consulting_Partners_LLC,2025-08-12,2025-09-19,3797.73,379.77,Professional Services 49,Net 41,Marketing,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.119380,Low,No Anomaly
+289,DIG-5138,IT_Services_Corp,2025-08-11,2025-09-23,6492.12,649.21,Professional Services 53,Net 35,Operations,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.169842,Low,No Anomaly
+185,DIG-5034,Office_Equipment_Co,2025-08-11,2025-09-20,2190.3,219.03,Professional Services 47,Net 30,Marketing,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.695078,Low,No Anomaly
+281,DIG-5130,Genpact_Vendor_A,2025-08-10,2025-08-27,9427.71,942.77,Professional Services 75,Net 45,Marketing,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.068128,Low,No Anomaly
+171,DIG-5020,Consulting_Partners_LLC,2025-08-10,2025-08-21,8189.43,818.94,Professional Services 80,Net 45,Marketing,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.492381,Low,No Anomaly
+183,DIG-5032,Office_Equipment_Co,2025-08-10,2025-09-03,956.41,95.64,Professional Services 69,Net 26,HR,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.663228,Low,No Anomaly
+246,DIG-5095,IT_Services_Corp,2025-08-09,2025-09-03,8204.66,820.47,Professional Services 32,Net 22,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.618828,Medium,Duplicate
+262,DIG-5111,Consulting_Partners_LLC,2025-08-09,2025-09-15,7011.91,701.19,Professional Services 75,Net 45,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.847547,Low,No Anomaly
+233,DIG-5082,Genpact_Vendor_A,2025-08-08,2025-08-25,7942.79,794.28,Professional Services 7,Net 21,Marketing,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.392374,Low,Duplicate
+188,DIG-5037,Global_Supplies_Ltd,2025-08-08,2025-09-18,7216.2,721.62,Professional Services 39,Net 21,HR,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.734198,Low,No Anomaly
+254,DIG-5103,Genpact_Vendor_A,2025-08-07,2025-08-30,2060.29,206.03,Professional Services 40,Net 28,HR,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.755686,Low,No Anomaly
+255,DIG-5104,Genpact_Vendor_A,2025-08-07,2025-08-18,1084.07,108.41,Professional Services 93,Net 27,Operations,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.763912,Low,No Anomaly
+224,DIG-5073,Genpact_Vendor_A,2025-08-06,2025-09-09,7969.74,796.97,Professional Services 77,Net 36,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.226868,Low,Duplicate
+247,DIG-5096,IT_Services_Corp,2025-08-05,2025-08-18,5666.45,566.64,Professional Services 1,Net 42,Operations,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.667285,Low,No Anomaly
+230,DIG-5079,Office_Equipment_Co,2025-08-05,2025-08-18,1638.14,163.81,Professional Services 78,Net 30,Finance,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.337983,Low,No Anomaly
+178,DIG-5027,Genpact_Vendor_A,2025-08-03,2025-08-29,2626.57,262.66,Professional Services 46,Net 40,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.578263,Low,No Anomaly
+292,DIG-5141,Office_Equipment_Co,2025-08-03,2025-09-17,1350.24,135.02,Professional Services 32,Net 27,Marketing,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.208893,Low,No Anomaly
+198,DIG-5047,IT_Services_Corp,2025-08-03,2025-08-26,7636.95,763.7,Professional Services 89,Net 19,IT,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.865653,Medium,Duplicate
+196,DIG-5045,Genpact_Vendor_A,2025-08-03,2025-08-26,7645.53,764.55,Professional Services 73,Net 39,Operations,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.832770,Medium,Duplicate
+162,DIG-5011,IT_Services_Corp,2025-08-02,2025-08-29,6870.37,687.04,Professional Services 28,Net 43,IT,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.346750,Low,No Anomaly
+269,DIG-5118,Consulting_Partners_LLC,2025-08-02,2025-08-19,5232.52,523.25,Professional Services 80,Net 26,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.925772,Low,No Anomaly
+256,DIG-5105,Office_Equipment_Co,2025-08-02,2025-09-12,4403.26,440.33,Professional Services 84,Net 40,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.780264,Low,No Anomaly
+219,DIG-5068,Office_Equipment_Co,2025-08-02,2025-08-14,2108.0,210.8,Professional Services 56,Net 33,Finance,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.146209,Low,No Anomaly
+200,DIG-5049,Consulting_Partners_LLC,2025-08-01,2025-09-03,7822.13,782.21,Professional Services 19,Net 19,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.898144,Low,No Anomaly
+194,DIG-5043,Office_Equipment_Co,2025-08-01,2025-09-09,4776.48,477.65,Professional Services 69,Net 17,IT,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.800570,Low,Duplicate
+243,DIG-5092,Global_Supplies_Ltd,2025-08-01,2025-08-28,9485.24,948.52,Professional Services 23,Net 44,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.553935,Low,No Anomaly
+296,DIG-5145,Tech_Solutions_Inc,2025-08-01,2025-08-11,11348.19,1134.82,Professional Services 75,Net 21,IT,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.268382,Low,No Anomaly
+263,DIG-5112,Consulting_Partners_LLC,2025-07-31,2025-09-08,9424.5,942.45,Professional Services 49,Net 41,Operations,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.859139,Low,No Anomaly
+291,DIG-5140,IT_Services_Corp,2025-07-31,2025-08-20,7650.85,765.09,Professional Services 2,Net 40,Finance,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.193352,Low,Duplicate
+236,DIG-5085,Tech_Solutions_Inc,2025-07-31,2025-08-11,7086.38,708.64,Professional Services 43,Net 25,Operations,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.434080,Low,No Anomaly
+208,DIG-5057,Global_Supplies_Ltd,2025-07-31,2025-08-10,371.06,37.11,Professional Services 1,Net 22,Marketing,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.994093,Low,Statistical Anomaly
+260,DIG-5109,Consulting_Partners_LLC,2025-07-30,2025-08-15,5765.12,576.51,Professional Services 39,Net 33,HR,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.825769,Low,No Anomaly
+217,DIG-5066,IT_Services_Corp,2025-07-30,2025-08-18,2081.14,208.11,Professional Services 64,Net 24,HR,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.122417,Low,No Anomaly
+245,DIG-5094,Genpact_Vendor_A,2025-07-29,2025-08-29,7607.93,760.79,Professional Services 74,Net 30,Operations,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.592443,Low,Duplicate
+228,DIG-5077,Global_Supplies_Ltd,2025-07-28,2025-08-28,4028.45,402.85,Professional Services 75,Net 31,HR,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.290631,Low,No Anomaly
+205,DIG-5054,Global_Supplies_Ltd,2025-07-28,2025-08-23,9109.66,910.97,Professional Services 76,Net 20,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.959205,Low,No Anomaly
+222,DIG-5071,Global_Supplies_Ltd,2025-07-27,2025-09-05,7035.14,703.51,Professional Services 1,Net 43,Marketing,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.197119,Low,No Anomaly
+299,DIG-5148,Global_Supplies_Ltd,2025-07-27,2025-09-07,5510.16,551.02,Professional Services 48,Net 26,IT,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.304881,Low,No Anomaly
+170,DIG-5019,Genpact_Vendor_A,2025-07-25,2025-09-03,8913.74,891.37,Professional Services 23,Net 44,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.480638,Low,No Anomaly
+211,DIG-5060,Office_Equipment_Co,2025-07-25,2025-08-13,4805.47,480.55,Professional Services 54,Net 24,Operations,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.034321,Low,Duplicate
+283,DIG-5132,IT_Services_Corp,2025-07-25,2025-08-10,4536.21,453.62,Professional Services 84,Net 16,Marketing,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.091671,Low,No Anomaly
+191,DIG-5040,IT_Services_Corp,2025-07-25,2025-08-06,1312.1,131.21,Professional Services 22,Net 30,IT,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.766892,Low,No Anomaly
+202,DIG-5051,Office_Equipment_Co,2025-07-25,2025-08-09,168.42,16.84,Professional Services 45,Net 36,Operations,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.922126,Low,Statistical Anomaly
+298,DIG-5147,Tech_Solutions_Inc,2025-07-24,2025-08-23,13227.01,1322.7,Professional Services 50,Net 29,HR,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.289742,Medium,Statistical Anomaly
+257,DIG-5106,Genpact_Vendor_A,2025-07-24,2025-08-24,5674.7,567.47,Professional Services 59,Net 17,Marketing,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.788367,Low,No Anomaly
+294,DIG-5143,Global_Supplies_Ltd,2025-07-24,2025-08-16,2976.26,297.63,Professional Services 81,Net 30,Finance,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.237041,Low,No Anomaly
+239,DIG-5088,Tech_Solutions_Inc,2025-07-24,2025-09-07,2553.11,255.31,Professional Services 43,Net 31,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.491945,Low,No Anomaly
+261,DIG-5110,Office_Equipment_Co,2025-07-24,2025-08-04,4091.72,409.17,Professional Services 11,Net 19,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.837241,Low,No Anomaly
+216,DIG-5065,Tech_Solutions_Inc,2025-07-23,2025-08-26,11251.83,1125.18,Professional Services 9,Net 25,Finance,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.108261,Low,No Anomaly
+218,DIG-5067,IT_Services_Corp,2025-07-23,2025-08-11,8364.02,836.4,Professional Services 18,Net 27,Operations,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.122417,Low,No Anomaly
+250,DIG-5099,Consulting_Partners_LLC,2025-07-23,2025-08-02,4346.14,434.61,Professional Services 33,Net 37,Operations,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.707113,Low,No Anomaly
+158,DIG-5007,Tech_Solutions_Inc,2025-07-21,2025-09-01,7254.15,725.41,Professional Services 12,Net 40,IT,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.213841,Low,No Anomaly
+225,DIG-5074,Tech_Solutions_Inc,2025-07-19,2025-07-29,11137.47,1113.75,Professional Services 26,Net 31,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.242503,Medium,No Anomaly
+234,DIG-5083,Office_Equipment_Co,2025-07-18,2025-08-25,981.52,98.15,Professional Services 13,Net 18,HR,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.411336,Low,No Anomaly
+189,DIG-5038,Office_Equipment_Co,2025-07-18,2025-08-12,5179.81,517.98,Professional Services 16,Net 20,HR,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.742255,Low,No Anomaly
+155,DIG-5004,Tech_Solutions_Inc,2025-07-17,2025-08-20,12881.82,1288.18,Professional Services 32,Net 23,Operations,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.134256,Medium,Statistical Anomaly
+223,DIG-5072,Consulting_Partners_LLC,2025-07-17,2025-08-06,3778.23,377.82,Professional Services 95,Net 36,Marketing,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.210078,Low,No Anomaly
+235,DIG-5084,Consulting_Partners_LLC,2025-07-16,2025-08-11,4431.86,443.19,Professional Services 82,Net 37,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.425507,Low,No Anomaly
+169,DIG-5018,IT_Services_Corp,2025-07-15,2025-08-03,8065.45,806.55,Professional Services 29,Net 23,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.464115,Low,No Anomaly
+238,DIG-5087,Office_Equipment_Co,2025-07-15,2025-07-26,5041.68,504.17,Professional Services 68,Net 40,Operations,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.479330,Low,No Anomaly
+174,DIG-5023,Global_Supplies_Ltd,2025-07-15,2025-08-13,1888.32,188.83,Professional Services 60,Net 37,Operations,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.521421,Low,No Anomaly
+280,DIG-5129,Tech_Solutions_Inc,2025-07-14,2025-08-18,7598.73,759.87,Professional Services 51,Net 43,IT,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.057109,Low,No Anomaly
+244,DIG-5093,Office_Equipment_Co,2025-07-13,2025-08-13,3724.4,372.44,Professional Services 39,Net 17,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.569725,Low,No Anomaly
+206,DIG-5055,IT_Services_Corp,2025-07-09,2025-08-23,7632.0,763.2,Professional Services 53,Net 36,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.971893,Low,No Anomaly
+197,DIG-5046,Office_Equipment_Co,2025-07-09,2025-07-21,1679.49,167.95,Professional Services 22,Net 15,Finance,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.854687,Low,No Anomaly
+293,DIG-5142,Office_Equipment_Co,2025-07-08,2025-08-13,793.51,79.35,Professional Services 55,Net 43,HR,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.225909,Low,No Anomaly
+241,DIG-5090,IT_Services_Corp,2025-07-06,2025-08-06,1307.43,130.74,Professional Services 4,Net 44,IT,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.521737,Low,No Anomaly
+290,DIG-5139,IT_Services_Corp,2025-07-05,2025-08-03,8169.29,816.93,Professional Services 99,Net 43,HR,Digital,Pending,2025-10-02 08:42:15,2025-10-02 14:12:15.179623,Low,No Anomaly
+180,DIG-5029,Consulting_Partners_LLC,2025-07-05,2025-07-16,6436.01,643.6,Professional Services 61,Net 37,IT,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.619577,Low,No Anomaly
+181,DIG-5030,Genpact_Vendor_A,2025-07-04,2025-07-24,5504.79,550.48,Professional Services 8,Net 23,Operations,Digital,Pending,2025-10-02 08:42:13,2025-10-02 14:12:13.636105,Low,No Anomaly
+264,DIG-5113,Global_Supplies_Ltd,2025-07-04,2025-08-18,1433.32,143.33,Professional Services 82,Net 26,Finance,Digital,Pending,2025-10-02 08:42:14,2025-10-02 14:12:14.871641,Low,No Anomaly
