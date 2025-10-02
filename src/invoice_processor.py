@@ -1,3 +1,7 @@
+"""
+Invoice Processor for Data Extraction
+"""
+
 import pandas as pd
 import pytesseract
 from PIL import Image
