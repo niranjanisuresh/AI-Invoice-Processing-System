@@ -255,7 +255,7 @@ class InvoiceIQApp:
             self.show_dashboard()
         elif page == " Search":
             self.show_search()
-        elif page == "Upload":
+        elif page == " Upload":
             self.show_upload()
         elif page == " Anomalies":
             self.show_anomalies()
