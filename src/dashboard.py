@@ -13,7 +13,7 @@ class AnalyticsDashboard:
     def create_enhanced_dashboard(self, processed_data, results_data):
         """Create an enhanced analytics dashboard with advanced visualizations"""
         fig = plt.figure(figsize=self.figsize)
-        fig.suptitle('Genpact - Enhanced Invoice Analytics Dashboard', 
+        fig.suptitle('InvoiceIQ Analytics Dashboard', 
                     fontsize=18, fontweight='bold', y=0.98)
         
         # Create grid layout

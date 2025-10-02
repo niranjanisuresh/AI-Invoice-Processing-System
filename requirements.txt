@@ -8,4 +8,7 @@ pillow>=10.0.0
 openpyxl>=3.0.0
 Jinja2>=3.0.0
 fpdf2>=2.7.0
-sqlite3>=2.6.0  # Built-in Python
+
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.2
+streamlit-extras>=0.2.7
