@@ -2,7 +2,8 @@
 ## 🚀 Quick Overview
 
 **INVOICE IQ** is an AI-powered invoice processing system that automates data extraction, detects anomalies using machine learning, and provides real-time analytics through a beautiful dark-themed interface.
-
+## CHECK OUT 
+  https://ai-invoice-processing-system-hle7iyzrlpkcr37dljjrtd.streamlit.app/
 ## ✨ Key Features
 
 - **🤖 AI-Powered Processing**: Automatically extracts data from digital and scanned invoices.
@@ -40,7 +41,7 @@ DETAILED ARCHITECTURE DIAGRAM
 <img width="7880" height="2442" alt="deepseek_mermaid_20251002_5744de" src="https://github.com/user-attachments/assets/8a231e77-b992-46d6-a83a-e0f437535fa4" />
 
 DATABASE SCHEMA
-<img width="2334" height="2871" alt="deepseek_mermaid_20251002_43a202" src="https://github.com/user-attachments/assets/ac03ba00-d316-4290-b494-1d45cdbd2ac5" />
+<img width="519" height="497" alt="image" src="https://github.com/user-attachments/assets/fce3f240-4fef-40b3-bdea-24a66639e306" />
 
 
 ##  Technology Stack
@@ -81,9 +82,5 @@ Efficient ML model training
 ## Monitoring & Analytics
 This architecture supports scalability - you can easily replace SQLite with PostgreSQL, add cloud storage, or integrate with enterprise ERP systems while maintaining the same core logic.
 <img width="3024" height="1260" alt="deepseek_mermaid_20251002_dffda3" src="https://github.com/user-attachments/assets/521166d2-d261-4bef-aa4e-50227124c7f7" />
-
-
-
 Explore Dashboard for analytics
-
 Check Anomalies for risk detection
