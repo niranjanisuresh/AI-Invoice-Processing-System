@@ -473,7 +473,7 @@ class EnhancedInvoiceProcessingSystem:
     
     def run_enhanced_pipeline(self):
         """Run the complete enhanced pipeline"""
-        print("🚀 GENPACT ENHANCED INVOICE PROCESSING SYSTEM")
+        print("🚀 FIN LEDGER")
         print("=" * 60)
         
         try:
@@ -514,7 +514,7 @@ def main():
     
     while True:
         print("\n" + "="*60)
-        print("🏢 GENPACT - Enhanced Invoice Processing System")
+        print("🏢 FIN AI LEDGER")
         print("="*60)
         print("1. Run Complete Enhanced Pipeline")
         print("2. Search Invoices")
